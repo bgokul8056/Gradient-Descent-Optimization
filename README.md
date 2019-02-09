@@ -8,6 +8,7 @@ The algorithms studied in this project are `No Momentum` , `Polyak's Classical M
 
 The hyperparameters varied are `learning rate`, `batch size` and the `number of iterations`.
 
+The findings of this project are documented in the report 
 
 ## DATA Folder
 This folder contains the Fashion MNIST training data.
@@ -32,3 +33,5 @@ This folder contains the results obtained from each algorithm.
 
 ## KERAS IMPLEMENTATION Folder
 This folder contains the ipython notebook which contains the Keras implementation of this project and their results.
+
+
